@@ -1,5 +1,6 @@
 # SortingVisualizer
 
 Demonstrations and visualizations of sorting algorithms.
-
-![Alt Text](/SortingVisualizer/blob/master/heap.gif)
+<br>
+<br>
+![Alt Text](https://github.com/KeitaFuruse/SortingVisualizer/blob/master/heap.gif)
